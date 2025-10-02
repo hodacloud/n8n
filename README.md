@@ -26,6 +26,5 @@ It creates the required environment files, generates an SSL certificate using Ce
 ## Installation
 
 Once the requirements are met, simply run the following command as root:
-
    ```bash
    bash <(curl -Ls https://raw.githubusercontent.com/hodacloud/n8n/refs/heads/main/n8n-install.sh)
