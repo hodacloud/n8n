@@ -20,7 +20,7 @@ It creates the required environment files, generates an SSL certificate using Ce
    apt install snapd -y
    snap install docker
 
-# A domain or subdomain must be pointed to your server.
+A domain or subdomain must be pointed to your server.
 
 
 ## Installation
